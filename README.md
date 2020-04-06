@@ -2,7 +2,7 @@
 
 ## Preview
 
-![alt iviny](https://github.com/MortadhaDAHMANI/Progress-Bar/raw/master/execBar.png)
+![alt iviny](https://github.com/MortadhaDAHMANI/Py-SIM800L/raw/master/original.jpg)
 
 ## Revision History
 * Initial Release : 25 Mars 2020
