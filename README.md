@@ -70,7 +70,7 @@ If this project help you, you can give me a tip ;)
 ### Author
 * This version has been created by: **Mortadha DAHMANI** <mortadha.dahmani@gmail.com>
 
-<a href="https://www.linkedin.com/in/mortadhadahmani" rel="In"> <img src="https://github.com/MortadhaDAHMANI/Py-SIM800L/raw/master/in.jpg" alt="In" height="40"></a>
+<a href="https://www.linkedin.com/in/mortadhadahmani" rel="In"> <img src="https://github.com/MortadhaDAHMANI/Py-SIM800L/raw/master/in2.jpg" alt="In" height="40"></a>
 
 ### Revision History
 * Initial Release : 25 Mars 2020
