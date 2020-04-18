@@ -68,7 +68,7 @@ If this project help you, you can give me a tip ;)
 <!--a href="https://paypal.me/mamdpay" rel="In"> <img src="https://wildflowercottage.org/wp-content/uploads/2019/03/paypal_donate_button_png_996391.png" alt="Donation" height="150"></a-->
 
 ### Author
-* This version has been created by: **Mortadha DAHMANI** <mortadha.dahmani@gmail.com>
+* This version has been created by: [**Mortadha DAHMANI**](mailto:mortadha.dahmani@gmail.com)
 
 <a href="https://www.linkedin.com/in/mortadhadahmani" rel="In"> <img src="https://github.com/MortadhaDAHMANI/Py-SIM800L/raw/master/in2.jpg" alt="In" height="40"></a>
 
