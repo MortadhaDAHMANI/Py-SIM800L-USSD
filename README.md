@@ -29,8 +29,11 @@ There are three types of USSD short codes available. The standard rate USSD shor
 
 ## Installation
 
-This installs a package that can be used from Python (``import serial``).
+This installs a package that can be used from Python:
 
+```python
+   import serial
+```
 ### From PyPI
 
 pySerial can be installed from PyPI:
@@ -46,6 +49,10 @@ contains examples, tests and the this documentation. By using PyPI, you will be 
 
 ## Pinout
 ![alt iviny](https://github.com/MortadhaDAHMANI/Py-SIM800L/raw/master/original.jpg)
+
+```diff
+- NOTICE: Be prepared to handle huge power consumption with peek up to 2A. Maximum voltage on UART in this module is 2.8V. Higher voltage will kill the module.
+```
 
 ### Useful links
 * [AT Commands](https://nettigo.eu/attachments/386 "AT Commands")
