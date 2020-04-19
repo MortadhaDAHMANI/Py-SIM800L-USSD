@@ -18,7 +18,7 @@ Some examples of service usage are airtime top-ups, *"please call me"* services,
 
 #### What about USSD short codes?
 
-USSD short code format is defined by the __* and # signs__ at the beginning and the end of the series of digits.
+USSD short code format is defined by the __* and #__ signs at the beginning and the end of the series of digits.
 
 There are three types of USSD short codes available. The standard rate USSD short code is charged the standard fee for the USSD menu usage by the end-user. Reverse-billed short codes are free for the end-user. Premium rate USSD short codes are charging the end user a premium price for short code triggering. Generally, USSD short codes are either reverse-billed or standard rate. 
 
