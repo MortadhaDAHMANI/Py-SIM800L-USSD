@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+# -*- coding: utf8 -*-
 
 import time
 import serial
