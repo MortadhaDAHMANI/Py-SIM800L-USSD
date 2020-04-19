@@ -83,4 +83,4 @@ If this project help you, you can give me a tip ;)
 * Initial Release : 25 Mars 2020
 
 ### License
-* Py-SIM800L is distributed under the **LGPL** version 3 license.
+* _Py-SIM800L_ is distributed under the **LGPL** version 3 license.
