@@ -2,11 +2,11 @@
 
 ## Summary
 #### What is USSD?
-USSD (or Unstructured Supplementary Service Data) is an interactive, menu-based technology communication protocol available on every GSM-enabled mobile device.
+USSD (*Unstructured Supplementary Service Data*) is an interactive, menu-based technology communication protocol available on every GSM-enabled mobile device.
 
 It is a session-based text communication without a store-and-forward mechanism (unlike SMS) that is practical for interactive communication, such as banking or education.
 
-USSD messages can have up to 182 alphanumeric characters and the time it takes from a request to a response is 2 seconds while it takes 6 seconds for an SMS to reach a mobile phone.
+USSD messages can have up to **182 alphanumeric characters** and the time it takes from a request to a response is 2 seconds while it takes 6 seconds for an SMS to reach a mobile phone.
 
 #### What is the difference between USSD and SMS?
 
@@ -14,11 +14,11 @@ While SMS is a store and forward technology, USSD texts and interactions are not
 
 #### Examples of USSD usage
 
-Some examples of service usage are airtime top-ups, "please call me" services, balance checking and mini statements delivery.
+Some examples of service usage are airtime top-ups, *"please call me"* services, balance checking and mini statements delivery.
 
 #### What about USSD short codes?
 
-USSD short code format is defined by the * and # signs at the beginning and the end of the series of digits.
+USSD short code format is defined by the __* and # signs__ at the beginning and the end of the series of digits.
 
 There are three types of USSD short codes available. The standard rate USSD short code is charged the standard fee for the USSD menu usage by the end-user. Reverse-billed short codes are free for the end-user. Premium rate USSD short codes are charging the end user a premium price for short code triggering. Generally, USSD short codes are either reverse-billed or standard rate. 
 
