@@ -66,6 +66,10 @@ contains examples, tests and the this documentation. By using PyPI, you will be 
 ### Donation
 If this project help you, you can give me a tip ;)
 
+<!---
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=paypal&link=https://www.paypal.com/paypalme2/billzgithub)](https://paypal.me/mamdpay)
+-->
+
 <a href="https://paypal.me/mamdpay" rel="In"> <img src="https://www.pngarts.com/files/4/Paypal-Donate-PNG-High-Quality-Image.png" alt="Donation" height="70"></a>
 
 <!--a href="https://www.linkedin.com/in/mortadhadahmani" rel="In"> <img src="https://ps.w.org/button-paypal-donation/assets/icon-256x256.jpg" alt="Donation" height="150"></a-->
