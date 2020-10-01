@@ -53,6 +53,8 @@ contains examples, tests and the this documentation. By using PyPI, you will be 
 ```diff
 - NOTICE: Be prepared to handle huge power consumption with peek up to 2A. Maximum voltage on UART in this module is 2.8V. Higher voltage will kill the module.
 ```
+### My Hackster Tutorial
+<a href="https://www.hackster.io/mortadhadahmani/py-sim800l-ussd-167cc8" rel="Hack"> <img src="https://github.com/MortadhaDAHMANI/Py-SIM800L/raw/master/hackster.png" alt="Donation" height="80"></a>
 
 ### Useful links
 * [AT Commands](https://nettigo.eu/attachments/386 "AT Commands")
