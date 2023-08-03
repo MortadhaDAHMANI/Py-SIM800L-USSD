@@ -64,7 +64,7 @@ try:
     rep = phone.read_until('\n').decode('latin1', "replace")
     print(rep)
     
-    phone.write(b'AT+CUSD=1,"*123#",15\r')
+    phone.write(b'AT+CUSD=1,"*123#",15\r') #+CUSD: <m>[,<str>,<dcs>] 
     time.sleep(2)
     print(USSDDecode())
     phone.flush()
