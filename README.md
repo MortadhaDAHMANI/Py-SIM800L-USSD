@@ -66,6 +66,7 @@ contains examples, tests and the this documentation. By using PyPI, you will be 
 * [PySerial](https://pyserial.readthedocs.io/en/latest/pyserial.html "PySerial")
 * [PySerial Git](https://github.com/pyserial/pyserial "PySerial Git")
 * [Data Coding Scheme](https://en.wikipedia.org/wiki/Data_Coding_Scheme "DCS")
+* [Data Coding Scheme](https://www.openmarket.com/docs/Content/apis/v3smpp/smpp-data-coding.htm "DCS Open")
 
 
 ### Donation
